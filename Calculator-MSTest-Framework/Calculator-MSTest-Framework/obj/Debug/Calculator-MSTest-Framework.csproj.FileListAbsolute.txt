@@ -1,0 +1,5 @@
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-MSTest-Framework\bin\Debug\Calculator-MSTest-Framework.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-MSTest-Framework\bin\Debug\Calculator-MSTest-Framework.pdb
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-MSTest-Framework\obj\Debug\Calculator-MSTest-Framework.csproj.CoreCompileInputs.cache
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-MSTest-Framework\obj\Debug\Calculator-MSTest-Framework.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-MSTest-Framework\obj\Debug\Calculator-MSTest-Framework.pdb

@@ -1,0 +1,16 @@
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Calculator-Unit-Test.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Calculator-Unit-Test.pdb
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Calculator-MSTest-Framework.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Calculator-MSTest-Framework.pdb
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\obj\Debug\Calculator-Unit-Test.csprojAssemblyReference.cache
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\obj\Debug\Calculator-Unit-Test.csproj.CoreCompileInputs.cache
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\obj\Debug\Calculator-Unit-Test.csproj.CopyComplete
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\obj\Debug\Calculator-Unit-Test.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\Calculator-Unit-Test\obj\Debug\Calculator-Unit-Test.pdb

@@ -1,0 +1,10 @@
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\bin\Debug\UseCalculatorClass.exe.config
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\bin\Debug\UseCalculatorClass.exe
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\bin\Debug\UseCalculatorClass.pdb
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\bin\Debug\Calculator-MSTest-Framework.dll
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\bin\Debug\Calculator-MSTest-Framework.pdb
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\obj\Debug\UseCalculatorClass.csprojAssemblyReference.cache
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\obj\Debug\UseCalculatorClass.csproj.CoreCompileInputs.cache
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\obj\Debug\UseCalculatorClass.csproj.CopyComplete
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\obj\Debug\UseCalculatorClass.exe
+G:\Programming\DotNet\MSTest-Framework\Calculator-MSTest-Framework\UseCalculatorClass\obj\Debug\UseCalculatorClass.pdb
